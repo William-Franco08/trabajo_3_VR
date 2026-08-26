@@ -401,7 +401,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!64 &467483367
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -545,6 +545,84 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1078429124
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1520216866}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.29227
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.11915
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.29227
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+      propertyPath: m_Name
+      value: ImageToStl.com_young_gojo_satoru_-_jujutsu_kaisen_ridho.mnf
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+--- !u!4 &1078429125 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 97de7fdfcfb131048b2fbe88a2ae61f6, type: 3}
+  m_PrefabInstance: {fileID: 1078429124}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1431319890
 GameObject:
   m_ObjectHideFlags: 0
@@ -565,7 +643,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!54 &1431319891
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -700,6 +778,38 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1520216865
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1520216866}
+  m_Layer: 0
+  m_Name: Gojo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1520216866
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1520216865}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.48834, y: -0, z: -2.29227}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1078429125}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1899462910
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -752,6 +862,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: carros
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 969d6c7dba21ef54e80a253657899381, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 969d6c7dba21ef54e80a253657899381, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
       value: 0.6074915
@@ -779,3 +893,4 @@ SceneRoots:
   - {fileID: 467483370}
   - {fileID: 1431319896}
   - {fileID: 1899462910}
+  - {fileID: 1520216866}
